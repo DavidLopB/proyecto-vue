@@ -22,5 +22,5 @@ const decrementar = () => {
 <style scoped>
 p {
   color: red;
-} 
+}
 </style>
